@@ -10,7 +10,7 @@ In the main folder create a virtual environment
 
 ```bash
 C:\YourProyectFolder> python -m venv "VirtualSample1"
-C:\YourProyectFolder> .\"VirtualSample1"\activate
+C:\YourProyectFolder> .\"VirtualSample1"\Scripts\activate
 ```
 once active
 
